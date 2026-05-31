@@ -1,0 +1,3 @@
+# Generated gzip test files
+03-gzip/input/large.txt
+03-gzip/output/large.txt.gz
